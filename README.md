@@ -1,5 +1,5 @@
 # ComboBoxExample.java
 Example of java ComboBox Example
 
-#Licence
+# Licence
 Personal use
